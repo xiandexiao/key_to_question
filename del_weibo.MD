@@ -1,5 +1,5 @@
 ## 批量删除微博
-<code>
+(```)
     var s = document.createElement("script");
     
     s.setAttribute("src","https://lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js");
@@ -18,4 +18,4 @@
 	  }
   }
    document.head.appendChild(s);
- </code>
+(```)
